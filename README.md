@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I'm Chris!
 
 <!--
 **Chriskuei/Chriskuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm currently a Ph.D. student in Computer Science at [ICT](http://www.ict.ac.cn), [CAS](https://www.ucas.ac.cn)
+- ✉️ How to reach me: chenjiangui AT outlook dot com
 
 📊 **This week I spent my time on**
 
