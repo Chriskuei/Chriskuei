@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I'm currently a Ph.D. student in Computer Science at [ICT](http://www.ict.ac.cn), [CAS](https://www.ucas.ac.cn)
+- 🏠 Get more information from my homepage: https://chriskuei.github.io
 - ✉️ How to reach me: chenjiangui AT outlook dot com
 
 📊 **This week I spent my time on**
