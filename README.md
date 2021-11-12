@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other    3 hrs 36 mins   ████████████▓░░░░░░░░░░░░   50.97 % 
-Python   2 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.65 % 
-Bash     56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Python   3 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   40.66 % 
+Other    3 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   40.15 % 
+Bash     1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+JSON     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 <!--END_SECTION:waka-->
