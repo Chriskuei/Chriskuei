@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 9 mins    ████████████████████████▓   98.64 % 
-Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Python   2 mins          ██████████████░░░░░░░░░░░   56.16 % 
+Bash     1 min           ███████████░░░░░░░░░░░░░░   43.84 % 
 ```
 <!--END_SECTION:waka-->
