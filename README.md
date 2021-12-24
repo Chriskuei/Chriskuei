@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-
+Python   4 mins          █████████████████████▒░░░   84.72 % 
 ```
 <!--END_SECTION:waka-->
