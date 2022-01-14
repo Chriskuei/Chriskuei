@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   9 mins          ███████████████████████▓░   94.71 % 
+Python     2 hrs 43 mins   ███████████████▓░░░░░░░░░   63.21 % 
+Other      51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+JSON       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Text       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 ```
 <!--END_SECTION:waka-->
