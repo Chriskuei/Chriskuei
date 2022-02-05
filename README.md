@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 7 mins     ████████████████████░░░░░   80.47 % 
-Other    13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
